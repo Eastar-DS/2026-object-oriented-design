@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 논의하고 싶은 질문이 있나요?
+    url: https://github.com/woowacourse-study/2026-object-oriented-design/discussions
+    about: 함께 이야기 나누고 싶은 질문은 Issue가 아닌 Discussion에 등록해주세요.

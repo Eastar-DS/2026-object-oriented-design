@@ -1,0 +1,5 @@
+# 모든 파일의 코드 오너 = 전체 크루
+# PR 생성 시 코드 오너들에게 자동으로 리뷰가 요청됩니다.
+# (GitHub은 PR 작성자 본인은 리뷰어에서 자동으로 제외합니다.)
+
+* @vlmbuyd @Antoliny0919 @geongyu09 @gustn99 @yundol777
